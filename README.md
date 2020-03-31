@@ -1,0 +1,2 @@
+# bloginicial
+blog inicial 
